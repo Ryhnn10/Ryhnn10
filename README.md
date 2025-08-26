@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Banner / Greeting -->
+<h1 align="center">Hi there 👋, I'm Reyhan</h1>
+<h3 align="center">🚀 Fresh Graduate | Web Developer | Tech Enthusiast</h3>
 
-<!--
-**Ryhnn10/Ryhnn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🎓 Fresh Graduate in **Software Engineering Technology – IPB University**  
+- 💻 Passionate about **Web Development (Laravel, Express.js, Node.js, MySQL)**  
+- 🚀 Experienced with real-world projects like **SILINKER**, **SIJADIN**, and **TalasGo**  
+- ⚽ Outside of coding, I enjoy playing football & continuous learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Framework-Laravel-red?logo=laravel" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Backend-Express-black?logo=express" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Runtime-Node.js-green?logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git" alt="Git"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔗 [**SILINKER**](https://github.com/ryhnn10) – Shortlink & Microsite System with SSO  
+- 📨 [**SIBETLER**](https://github.com/ryhnn10) – Document Approval System  
+- ✈️ [**SIJADIN**](https://github.com/ryhnn10) – Business Trip Management System  
+- 🌱 [**TalasGo**](https://github.com/ryhnn10) – Web about Taro products & sellers  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryhnn10&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhnn10&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="mailto:alifreyhan1122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/alif-reyhan-putra-15b34b177"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
