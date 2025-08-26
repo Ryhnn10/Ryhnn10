@@ -7,7 +7,7 @@
 ### 🌟 About Me
 - 🎓 Fresh Graduate in **Software Engineering Technology – IPB University**  
 - 💻 Passionate about **Web Development (Laravel, Express.js, Node.js, MySQL)**  
-- 🚀 Experienced with real-world projects like **SILINKER**, **SIJADIN**, and **TalasGo**  
+- 🚀 Experienced with real-world projects like **SILINKER**, **SIJADIN**, and **SIBETLER**  
 - ⚽ Outside of coding, I enjoy playing football & continuous learning  
 
 ---
@@ -29,7 +29,7 @@
 - 📨 [**SIBETLER**](https://github.com/ryhnn10) – Document Approval System  
 - ✈️ [**SIJADIN**](https://github.com/ryhnn10) – Business Trip Management System  
 - 🌱 [**TalasGo**](https://github.com/ryhnn10) – Web about Taro products & sellers  
-
+- 💬 [**Syntra**](https://github.com/ryhnn10) - An interactive chatbot platform (non-AI) powered by intent-based system to understand user queries and provide accurate responses from institutional databases. Features include flexible intent management, live testing, and security controls to ensure reliable information.
 ---
 
 ### 📊 GitHub Stats
