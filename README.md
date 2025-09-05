@@ -25,10 +25,11 @@
 ---
 
 ### 📌 Featured Projects
-- 🔗 [**SILINKER**]– Shortlink & Microsite System with SSO  
+- 🔗 [**SILINKER**]– Shortlink & Microsite System   
 - 📨 [**SIBETLER**] – Document Approval System  
 - ✈️ [**SIJADIN**] – Business Trip Management System  
-- 🌱 [**TalasGo**] – Web about Taro products & sellers  
+- 🌱 [**TalasGo**] – Web about Taro products & sellers
+- ☕ [**Dapur Kopi Pasundan**] – A company profile website as well as a promotional media for the culinary business Dapur Kopi Pasundan.  
 - 💬 [**Syntra**] - An interactive chatbot platform (non-AI) powered by intent-based system to understand user queries and provide accurate responses from institutional databases. Features include flexible intent management, live testing, and security controls to ensure reliable information.
 ---
 
